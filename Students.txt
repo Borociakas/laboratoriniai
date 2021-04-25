@@ -1,0 +1,6 @@
+Name Surname HW1 HW2 HW3 HW4 HW5 Exam
+Jonas Jonaitis 6 5 8 7 6 8
+Adomas Adomaitis 8 7 8 9 8 7
+Domas Domaitis 8 7 6 7 8 9
+Juste Justaite 6 5 6 7 6 5
+Kotryna Kotrynaite 6 5 7 6 5 4
